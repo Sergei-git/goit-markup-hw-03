@@ -108,7 +108,6 @@ img {
 }
 
 .header-item {
-  /* background-color: tomato; */
 }
 
 .header-item:not(:last-child) {
@@ -156,8 +155,6 @@ img {
 
 .hero {
   background-color: var(--primary-text-color);
-  /* padding-top: 188px;
-  padding-bottom: 292px; */
 }
 
 .hero-title {
@@ -200,7 +197,6 @@ img {
 }
 
 .features {
-  /* margin: 120px; */
 }
 
 .visually-hidden {
@@ -244,8 +240,8 @@ img {
   color: var(--adress-and-text-color);
 }
 .doing {
-  /* margin: 120px; */
 }
+
 .doing-title {
   margin-bottom: 72px;
   font-weight: 700;
@@ -336,7 +332,6 @@ img {
 }
 
 .footer-logo {
-  /* margin-bottom: 16px; */
   font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 800;
